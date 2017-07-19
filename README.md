@@ -1,4 +1,5 @@
 # make_grid
+READD something
 Add something from branch host
 it is for the layout of a big image. 
 If our batch data is the shape of [N, H, W, C]
